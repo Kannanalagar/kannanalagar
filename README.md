@@ -11,7 +11,7 @@
 📬 How to reach me: [kannanaofficial@gmail.com](mailto:kannanaoffcial@gmail.com)<br>
 📝 [Resume](https://github.com/kannan6/RESUME/blob/main/kannan%20official.pdf)<br>
 💪 This is where I write, code and solve problems.<br><br>
- As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
+ As a Automation tester, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
 
 <img src="download (2).jfif" height=20% width=25% >
