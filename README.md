@@ -1,6 +1,6 @@
 # Welcome to [kannan a](https://github.com/Hirthick6/) profile! <a href="https://github.com/kannan/"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fyourbutlerspantry.com%2F%3Fw%3Dfunny-gifs-coding-gif-ff-xEJ39XTd&psig=AOvVaw0azpu8KRXj3w7iKg6AG9RL&ust=1726222410664000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiynOOVvYgDFQAAAAAdAAAAABAI" height=15% width=40% align="right">
+### I'm a...<imgsrc=tps://www."https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2xhM25yZnNqdzc2NXIxczBpYzQ2c2ZtcDEzaDMxdmpjdnlncmQ5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height=15% width=40% align="right">
 
 * Future Automation Tester 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
